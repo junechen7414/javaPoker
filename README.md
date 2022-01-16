@@ -1,2 +1,2 @@
 # javaPoker
-PokerGame
+show each cards in a shuffled deck
